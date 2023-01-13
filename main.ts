@@ -1,7 +1,7 @@
 input.onButtonPressed(Button.A, function () {
-    basic.showIcon(IconNames.Happy)
+    basic.showIcon(IconNames.Butterfly)
 })
 input.onButtonPressed(Button.B, function () {
-    basic.showIcon(IconNames.Sad)
+    basic.showIcon(IconNames.Heart)
 })
 basic.showIcon(IconNames.Skull)
